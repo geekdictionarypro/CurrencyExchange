@@ -1,0 +1,3 @@
+ 
+Type this command in to run the program. Please make sure your in the correct directory as you might change permissions of the wrong file and it won't work! 
+-sudo chmod ugo+x main.py 
